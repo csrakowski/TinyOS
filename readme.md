@@ -1,5 +1,7 @@
 # Scott Hanselman's Tiny Virtual Operating System and Abstract Machine in C#
 
+[![Build status](https://ci.appveyor.com/api/projects/status/vb8k3n8e7y77kijw?svg=true)](https://ci.appveyor.com/project/ScottHanselman/tinyos)
+
 ## What is this?
 
 This was the final project for my CST352-Operating Systems class at [OIT](http://www.oit.edu) (Oregon Institute of Technology).  The requirements, exactly as they were given to me by the teacher, are in [originalassignment.md](originalassignment.md).  The goal of this project was to write a small _virtual_ operating system for an _abstract_ machine that provides a number of basic OS-like services like:
